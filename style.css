@@ -1,0 +1,21 @@
+div {
+    background-color: #A8763E;
+    color: #6F1A07;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.heading {
+    font-weight: 900;
+}
+
+.list {
+    font-style: italic;
+}
